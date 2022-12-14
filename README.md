@@ -7,4 +7,4 @@ public class demo{
 
 test
 
-Git tracks changes.
+Git tracks changes of files.
