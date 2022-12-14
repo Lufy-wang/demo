@@ -6,3 +6,5 @@ public class demo{
 }
 
 test
+
+Git tracks changes.
