@@ -7,14 +7,3 @@ public class demo{
 
 test
 
-Git tracks changes of files.
-<<<<<<< HEAD
-Creating a new branch is quick
-Creating a new branch is quick AND simple.
-=======
-Creating a new branch is quick.
-Creating a new branch is quick AND simple.
->>>>>>> featurel
-
-ben is Chaina.
-
